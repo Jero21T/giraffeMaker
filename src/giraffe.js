@@ -1,3 +1,4 @@
+//Added a comment as a test
 var giraffeMaker = function(name, height) {
   var newGiraffe = {};
   newGiraffe.name = name;
